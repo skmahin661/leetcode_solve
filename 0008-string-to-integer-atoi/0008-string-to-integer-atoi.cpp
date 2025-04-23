@@ -5,7 +5,7 @@ public:
         int flag=0,dlag=0,mlag=0;
         for(int i=0;i<s.size();i++)
         {
-            if(s[i]==' ' && !flag && !dlag && !mlag) 
+            if(s[i]==' ' && !flag && !mlag && !dlag) 
             {
                 continue;
             }
@@ -31,10 +31,22 @@ public:
         {
             int d = x[i]-'0';
             sk = sk*10+d;
-         if (!dlag && sk > INT_MAX) return INT_MAX;
-            if (dlag && -sk < INT_MIN) return INT_MIN;
+            if(dlag)
+            {
+                if((sk*-1)<INT_MIN)
+                {
+                    return INT_MIN;
+                }
+            }
+            if(sk>INT_MAX && !dlag)
+            {
+                return INT_MAX;
+            }
         }
-
-        return dlag ? -sk : sk;
+        if(dlag)
+        {
+            return sk*-1;
+        }
+        return sk;
     }
 };
