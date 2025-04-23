@@ -31,5 +31,26 @@
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/skmahin661/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/skmahin661/leetcode_solve/tree/master/2305-append-k-integers-with-minimal-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/skmahin661/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+## String
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/skmahin661/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/skmahin661/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/skmahin661/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/skmahin661/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
