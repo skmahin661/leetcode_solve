@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/skmahin661/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/skmahin661/leetcode_solve/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/skmahin661/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/skmahin661/leetcode_solve/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
