@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/skmahin661/leetcode_solve/tree/master/0231-power-of-two) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/skmahin661/leetcode_solve/tree/master/2305-append-k-integers-with-minimal-sum) |
 ## Greedy
 |  |
@@ -64,4 +65,12 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/skmahin661/leetcode_solve/tree/master/0151-reverse-words-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/skmahin661/leetcode_solve/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/skmahin661/leetcode_solve/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
