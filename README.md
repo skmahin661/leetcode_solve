@@ -9,6 +9,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/skmahin661/leetcode_solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/skmahin661/leetcode_solve/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/skmahin661/leetcode_solve/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1646-kth-missing-positive-number](https://github.com/skmahin661/leetcode_solve/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,4 +18,5 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/skmahin661/leetcode_solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/skmahin661/leetcode_solve/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/skmahin661/leetcode_solve/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1646-kth-missing-positive-number](https://github.com/skmahin661/leetcode_solve/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
